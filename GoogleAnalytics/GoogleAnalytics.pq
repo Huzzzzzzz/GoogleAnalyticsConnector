@@ -6,8 +6,8 @@
 
 section GAAnalytics;
 
-appKey="enteryourappkey";
-appSecret="enteryourappsecret";
+appKey="436049706744-chfi1b2f12918iu6pf0ft897kepajafo.apps.googleusercontent.com";
+appSecret="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";
 redirectUrl = "https://oauth.powerbi.com/views/oauthredirect.html";
 token_uri = "https://accounts.google.com/o/oauth2/token";
 authorize_uri = "https://accounts.google.com/o/oauth2/auth";
